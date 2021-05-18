@@ -5,4 +5,4 @@
 米国で働く現役AIエンジニアがGitをゼロからやさしく教えます．現場目線で教えるので修了後には実際に日々の開発・プログラミング学習にGitを導入することができます．
 https://www.udemy.com/course/aigitgithub/
 
-自分のリポジトリで更新
+rebase-branchで更新（rebase用）
