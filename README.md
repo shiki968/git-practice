@@ -7,4 +7,4 @@ https://www.udemy.com/course/aigitgithub/
 
 rebase-branchで更新（コンフリクト）
 rebase pull用
-stash練習
+stash練習(トラック済)
